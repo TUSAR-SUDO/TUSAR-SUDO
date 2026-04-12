@@ -60,13 +60,14 @@ Data Structures, REST APIs, Component Architecture
 
 ---
 
-## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO\&show_icons=true\&hide_title=true\&hide_border=true)
+## Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO\&layout=compact\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=github_dark&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=github_dark&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=TUSAR-SUDO&theme=github-dark&hide_border=true)
 
 ## Contact
 
@@ -74,3 +75,7 @@ Data Structures, REST APIs, Component Architecture
 * LinkedIn: (add when ready)
 
 ---
+
+## Activity
+
+![Snake animation](https://github.com/TUSAR-SUDO/TUSAR-SUDO/blob/output/github-contribution-grid-snake.svg)
