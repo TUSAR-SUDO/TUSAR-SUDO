@@ -60,14 +60,16 @@ Data Structures, REST APIs, Component Architecture
 
 ---
 
-
 ## Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=github_dark&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=TUSAR-SUDO&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TUSAR-SUDO&theme=github-dark&hide_border=true" height="150"/>
+</p>
 
 ## Contact
 
