@@ -32,6 +32,12 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel)](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page)
 
+<div align="center">
+
+![Japan Tours — Cinematic Landing Page](https://raw.githubusercontent.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page/main/screenshots/japan_web.jpg)
+
+</div>
+
 ---
 
 ### 🛒 Smart Campus Marketplace
@@ -85,9 +91,11 @@ Applied AI pipelines and LLM-based systems:
 
 <div align="center">
 
-![Tusar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&icon_color=D4F87A&text_color=FAFAFA&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TUSAR-SUDO&theme=dark&hide_border=true&background=0D1117&ring=D4F87A&fire=D4F87A&currStreakLabel=D4F87A)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&text_color=FAFAFA&langs_count=6)
+![Tusar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&icon_color=D4F87A&text_color=FAFAFA&count_private=true&cache_seconds=3600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&text_color=FAFAFA&langs_count=6&cache_seconds=3600)
 
 </div>
 
