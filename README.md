@@ -34,8 +34,9 @@
 
 <div align="center">
 
-![Japan Tours — Cinematic Landing Page](https://raw.githubusercontent.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page/main/screenshots/japan_web.jpg)
-
+![Japan Tours — Cinematic Landing Page](https://raw.githubusercontent.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page/main/screenshots/img1.jpg)
+![Japan Tours — content](https://raw.githubusercontent.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page/main/screenshots/img2.jpg)
+![Japan Tours — footer](https://raw.githubusercontent.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page/main/screenshots/img3.jpg)
 </div>
 
 ---
