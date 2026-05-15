@@ -1,83 +1,110 @@
-# Tusar Mahakud
+<div align="center">
 
-Software Engineer (in training) focused on building full-stack applications and applied AI systems.
+# TUSAR MAHAKUD
+
+**Software Engineer (in training) · Full-Stack · AI Systems · Creative Frontend**
+
+*Building production-ready applications at the intersection of design and engineering*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Portfolio](https://img.shields.io/badge/Live%20Demo-000000?style=flat&logo=vercel&logoColor=white)](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahakudtusar@gmail.com)
+
+</div>
 
 ---
 
 ## Featured Project
 
-**Smart Campus Marketplace**
-A web platform enabling students to buy and sell within a trusted campus ecosystem.
+### 🗾 Japan Tours — Cinematic Landing Page
+> A scroll-driven, art-directed landing page for a premium 10-day Japan travel experience
 
-* Live: https://campus-marketplace-rose.vercel.app
-* Stack: React (Vite), Tailwind CSS
-* Focus: Scalable UI architecture, modular components, real-world usability
+**Lighthouse: 100 Accessibility · 100 Best Practices · 100 SEO**
+
+- 7-layer parallax hero — JAPAN display text masked behind a mountain landscape using a single `mask-image` CSS trick, no extra assets
+- Cherry blossom particle system — 18 SVG petals in pure CSS `@keyframes`, zero JS per frame
+- Video-enabled Polaroid cards with IntersectionObserver autoplay
+- Lerp cursor with `mix-blend-mode: difference`, Lenis smooth scroll, glassmorphism UI
+- ~1,100 lines of custom code across a clean component/hooks/sections architecture
+
+**Stack:** React 19 · TypeScript · Framer Motion · Vite · TailwindCSS · Lenis · Radix UI
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel)](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page)
 
 ---
 
-## AI / Systems Work
+### 🛒 Smart Campus Marketplace
+> A web platform enabling students to buy and sell within a trusted campus ecosystem
 
-Worked on applied AI pipelines and LLM-based systems:
+- Scalable UI architecture with modular, reusable components
+- Real-world usability focus — designed for actual student workflows
 
-* Built **RAG (Retrieval-Augmented Generation)** pipelines for contextual responses
-* Experimented with **Mistral 7B** for local inference and prompt-based tasks
-* Used **Hugging Face** ecosystem for model access and integration
-* Explored **model orchestration** and chaining workflows
-* Implemented **MCP-style server interactions** for structured AI communication
+**Stack:** React · Vite · Tailwind CSS
 
-Focus areas:
-
-* Prompt engineering
-* Context retrieval
-* Model integration in applications
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel)](https://campus-marketplace-rose.vercel.app/)
 
 ---
 
 ## Technical Skills
 
-**Languages**
-JavaScript, Python
+| Area | Tools |
+|------|-------|
+| **Languages** | JavaScript, Python |
+| **Frontend** | React, Tailwind CSS, HTML, CSS, Framer Motion |
+| **Backend (Learning)** | Node.js, Express |
+| **AI / ML** | RAG pipelines, Mistral 7B, Hugging Face, Prompt Engineering |
+| **Concepts** | Data Structures, REST APIs, Component Architecture, MCP |
 
-**Frontend**
-React, Tailwind CSS, HTML, CSS
+---
 
-**Backend (Learning)**
-Node.js, Express
+## AI / Systems Work
 
-**AI / ML Tools**
-Hugging Face, Mistral 7B, RAG pipelines
+Applied AI pipelines and LLM-based systems:
 
-**Concepts**
-Data Structures, REST APIs, Component Architecture
+- 🔍 Built **RAG (Retrieval-Augmented Generation)** pipelines for contextual responses
+- 🤖 Experimented with **Mistral 7B** for local inference and prompt-based tasks
+- 🤗 Used **Hugging Face** ecosystem for model access and integration
+- 🔗 Explored **model orchestration** and chaining workflows
+- ⚙️ Implemented **MCP-style server interactions** for structured AI communication
 
 ---
 
 ## Current Focus
 
-* Building production-ready full-stack applications
-* Strengthening Data Structures & Problem Solving
-* Integrating AI systems into real-world products
+```
+▶ Building production-ready full-stack applications
+▶ Strengthening Data Structures & Problem Solving
+▶ Integrating AI systems into real-world products
+▶ Pushing Lighthouse Performance scores (current: 61 → target: 90+)
+```
 
 ---
 
-## Metrics
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TUSAR-SUDO&theme=github-dark&hide_border=true" height="150"/>
-</p>
+![Tusar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&icon_color=D4F87A&text_color=FAFAFA)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&text_color=FAFAFA)
+
+</div>
+
+---
 
 ## Contact
 
-* GitHub: https://github.com/TUSAR-SUDO
-* LinkedIn: (add when ready)
+- 📧 [mahakudtusar@gmail.com](mailto:mahakudtusar@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE) ← *add your LinkedIn URL here*
+- 🌐 [Live Project](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
 
 ---
 
-## Activity
+<div align="center">
+
+*"Every interaction designed with intention."*
 
 ![Snake animation](https://github.com/TUSAR-SUDO/TUSAR-SUDO/blob/output/github-contribution-grid-snake.svg)
+
+</div>
