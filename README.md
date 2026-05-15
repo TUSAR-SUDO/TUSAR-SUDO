@@ -6,7 +6,7 @@
 
 *Building production-ready applications at the intersection of design and engineering*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2005-tusar-mahakud/)
 [![Portfolio](https://img.shields.io/badge/Live%20Demo-000000?style=flat&logo=vercel&logoColor=white)](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahakudtusar@gmail.com)
 
@@ -85,9 +85,9 @@ Applied AI pipelines and LLM-based systems:
 
 <div align="center">
 
-![Tusar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&icon_color=D4F87A&text_color=FAFAFA)
+![Tusar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&icon_color=D4F87A&text_color=FAFAFA&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&text_color=FAFAFA)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4F87A&text_color=FAFAFA&langs_count=6)
 
 </div>
 
@@ -96,15 +96,13 @@ Applied AI pipelines and LLM-based systems:
 ## Contact
 
 - 📧 [mahakudtusar@gmail.com](mailto:mahakudtusar@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE) ← *add your LinkedIn URL here*
-- 🌐 [Live Project](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
+- 💼 [linkedin.com/in/2005-tusar-mahakud](https://www.linkedin.com/in/2005-tusar-mahakud/)
+- 🌐 [Japan Tours — Live Project](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
 
 ---
 
 <div align="center">
 
 *"Every interaction designed with intention."*
-
-![Snake animation](https://github.com/TUSAR-SUDO/TUSAR-SUDO/blob/output/github-contribution-grid-snake.svg)
 
 </div>
