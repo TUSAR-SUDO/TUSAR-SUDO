@@ -1,99 +1,150 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=200&section=header&text=TUSAR%20MAHAKUD&fontSize=46&fontAlignY=38&fontColor=D4F87A&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Creative%20Frontend&descAlignY=58&descSize=18&descColor=FAFAFA&animation=fadeIn" />
-
-<a href="https://www.linkedin.com/in/2005-tusar-mahakud/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://kimi-agent-cinematic-japan-tour-lan.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-D4F87A?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="mailto:mahakudtusar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://cloudsnap-x107.onrender.com"><img src="https://img.shields.io/badge/CloudSnap-FF4D4D?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=TUSAR%20MAHAKUD&fontSize=58&fontAlignY=35&fontColor=D4F87A&desc=Engineering%20at%20the%20edge%20of%20Code%2C%20Design%20%26%20AI&descAlignY=55&descSize=20&descColor=FAFAFA&animation=twinkling" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=D4F87A&center=true&vCenter=true&width=600&lines=Building+production-ready+full-stack+apps;Designing+cinematic%2C+scroll-driven+frontends;Shipping+AI-integrated+systems;Every+interaction+designed+with+intention." />
+<!-- Animated signature mark — pure inline SVG, no external assets -->
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="20" r="6" fill="#D4F87A">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="60" cy="20" r="6" fill="#D4F87A">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" repeatCount="indefinite" begin="0.3s" />
+  </circle>
+  <circle cx="100" cy="20" r="6" fill="#D4F87A">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" begin="0.6s" />
+  </circle>
+</svg>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=D4F87A&center=true&vCenter=true&width=720&lines=I+don't+just+ship+features+%E2%80%94+I+ship+experiences;Cinematic+frontends.+Production+backends.+Real+AI.;Lighthouse+100s+aren't+luck.+They're+the+default.;Welcome+to+the+lab." />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/2005-tusar-mahakud/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kimi-agent-cinematic-japan-tour-lan.vercel.app/"><img src="https://img.shields.io/badge/Flagship%20Project-D4F87A?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://cloudsnap-x107.onrender.com"><img src="https://img.shields.io/badge/CloudSnap-FF4D4D?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+<a href="mailto:mahakudtusar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 👋 About Me
-
-I'm a **software engineer in training** focused on the intersection of **design-driven frontend engineering**, **full-stack development**, and **applied AI systems**. I care about *craft* — pixel-tight motion design, accessible markup, and code that's as clean as the interface it renders.
-
-```ts
-const tusar = {
-  role: "Software Engineer (in training)",
-  focus: ["Full-Stack Development", "AI Systems", "Creative Frontend"],
-  currentlyBuilding: "production-grade apps with cinematic UX",
-  philosophy: "Every interaction designed with intention.",
-};
-```
-
 <br/>
-
-## 🚀 Featured Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🗾 Japan Tours — Cinematic Landing
-**Scroll-driven, art-directed travel landing page**
+### 👁️ The Short Version
 
-`Lighthouse: 100 · 100 · 100`
+I build interfaces that feel **alive** — parallax that responds to scroll velocity, particle systems that run at 60fps with zero JS-per-frame cost, cursors that bend light through `mix-blend-mode`. Then I wire them to real backends, real databases, and real AI pipelines, because a beautiful UI with nothing behind it is just a screenshot.
 
-- 7-layer parallax hero with a single CSS `mask-image` trick
-- 18-petal cherry blossom particle system, pure CSS `@keyframes`
-- Video Polaroid cards with `IntersectionObserver` autoplay
-- Lerp cursor using `mix-blend-mode: difference` + Lenis smooth scroll
-- ~1,100 lines, clean component/hooks/sections architecture
+```ts
+class Engineer {
+  stack = ["React 19", "TypeScript", "Node.js", "MongoDB", "ImageKit"];
+  obsessions = ["motion design", "RAG pipelines", "Lighthouse: 100"];
+  currentMission = "61 → 90+ performance, one render at a time";
 
-**Stack:** React 19 · TypeScript · Framer Motion · Vite · Tailwind · Lenis · Radix UI
-
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page)
+  ship() {
+    return "production-ready, pixel-tight, never 'good enough'";
+  }
+}
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### ☁️ CloudSnap — Cloud Image Gallery
-**Full-stack image sharing platform with CDN delivery**
+### ⚡ At a Glance
 
-- JWT auth with bcrypt-hashed passwords, session auto-restore
-- Drag-and-drop uploads to **ImageKit CDN**, live preview + captions
-- Real-time canvas fire-particle hero (~180 particles, responsive scaling)
-- MongoDB-backed gallery feed with like interactions & skeleton loading
-
-**Stack:** React 19 · Express 5 · MongoDB · ImageKit · JWT · Vite
-
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=render)](https://cloudsnap-x107.onrender.com)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/TUSAR-SUDO/cloudsnap)
+| | |
+|---|---|
+| 🎯 Role | Software Engineer *(in training)* |
+| 🧩 Focus | Full-Stack · AI Systems · Motion UI |
+| 🏆 Best Score | `100 / 100 / 100` Lighthouse |
+| 🔥 Currently | Pushing perf 61→90+ |
+| 📍 Based in | India |
+| 💬 Philosophy | *"Every interaction designed with intention."* |
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+## 🚀 Things I've Actually Shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🗾 Japan Tours — Cinematic Landing</h3>
+
+<img src="https://img.shields.io/badge/Lighthouse-100%20%C2%B7%20100%20%C2%B7%20100-D4F87A?style=flat-square" />
+
+A scroll-driven, art-directed landing page for a premium 10-day Japan trip — built to feel like a movie trailer, not a brochure.
+
+- 🏔️ 7-layer parallax hero — `JAPAN` masked behind mountains via a **single** `mask-image`, zero extra assets
+- 🌸 18-petal cherry blossom system in pure CSS `@keyframes` — no JS per frame
+- 🎬 Video-enabled Polaroid cards with `IntersectionObserver` autoplay
+- 🖱️ Lerp cursor + `mix-blend-mode: difference` + Lenis smooth scroll
+- 📐 ~1,100 lines, clean component/hooks/sections architecture
+
+`React 19` `TypeScript` `Framer Motion` `Vite` `Tailwind` `Lenis` `Radix UI`
+
+[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-000?style=for-the-badge&logo=vercel)](https://kimi-agent-cinematic-japan-tour-lan.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/TUSAR-SUDO/Kimi_Agent_Cinematic-Japan-Tour-Landing-Page)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>☁️ CloudSnap — Cloud Image Gallery</h3>
+
+<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20CDN-FF4D4D?style=flat-square" />
+
+A full-stack image-sharing platform — register, upload, browse — with every image streamed off a real CDN instead of local disk.
+
+- 🔐 JWT auth, bcrypt hashing, 7-day sessions, auto-restore on load
+- 📤 Drag-and-drop uploads straight to **ImageKit CDN**
+- 🔥 Real-time canvas fire-particle hero — ~180 particles, responsive
+- 🖼️ MongoDB-backed gallery feed, likes, skeleton loading states
+- 🚀 Single-service deploy on Render — backend serves the built frontend
+
+`React 19` `Express 5` `MongoDB` `ImageKit` `JWT` `Multer` `Vite`
+
+[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-000?style=for-the-badge&logo=render)](https://cloudsnap-x107.onrender.com)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/TUSAR-SUDO/cloudsnap)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 ### 🛒 Smart Campus Marketplace
-> A trusted student-to-student buy/sell platform with modular, reusable UI architecture, built around real campus workflows.
+*A trusted student buy/sell ecosystem, built around real campus workflows with modular, reusable UI architecture.*
 
-**Stack:** React · Vite · Tailwind CSS &nbsp; [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://campus-marketplace-rose.vercel.app/)
+`React` `Vite` `Tailwind CSS` &nbsp;&nbsp; [![Live](https://img.shields.io/badge/▶_LIVE_DEMO-000?style=for-the-badge&logo=vercel)](https://campus-marketplace-rose.vercel.app/)
 
-<br/>
-
-## 🧠 AI / Systems Work
-
-| Area | What I've Done |
-|---|---|
-| 🔍 **RAG Pipelines** | Built retrieval-augmented generation flows for grounded, contextual responses |
-| 🤖 **Local Inference** | Experimented with **Mistral 7B** for on-device, prompt-driven tasks |
-| 🤗 **Hugging Face** | Used the ecosystem for model access, fine-tuning context, and integration |
-| 🔗 **Orchestration** | Explored multi-model chaining and workflow orchestration |
-| ⚙️ **MCP** | Implemented MCP-style structured server interactions for AI communication |
+</div>
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🧠 Where AI Meets Engineering
+
+<div align="center">
+
+| 🔍 RAG Pipelines | 🤖 Local Inference | 🤗 Hugging Face | 🔗 Orchestration | ⚙️ MCP |
+|:---:|:---:|:---:|:---:|:---:|
+| Built retrieval-augmented flows for grounded, contextual responses | Ran **Mistral 7B** locally for prompt-driven tasks | Used the ecosystem for model access & integration | Chained multi-model workflows | Implemented structured AI server communication |
+
+</div>
+
+<br/>
+
+## 🛠️ The Toolbelt
 
 <div align="center">
 
@@ -114,60 +165,62 @@ const tusar = {
 
 <br/>
 
-## 🎯 Current Focus
+## 🎯 The Mission Right Now
 
 ```
 ▶ Building production-ready full-stack applications
 ▶ Strengthening Data Structures & Problem Solving
 ▶ Integrating AI systems into real-world products
-▶ Pushing Lighthouse Performance scores  →  61 ──────▶ 90+
+▶ Pushing Lighthouse Performance      61 ━━━━━━━━━━━━━━━━━━▶ 90+
 ```
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 The Numbers
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TUSAR-SUDO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4F87A&icon_color=D4F87A&text_color=FAFAFA&count_private=true&cache_seconds=3600" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4F87A&text_color=FAFAFA&langs_count=8&cache_seconds=3600" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUSAR-SUDO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4F87A&text_color=FAFAFA&langs_count=8&cache_seconds=3600" width="35.5%" />
 
 <img src="https://streak-stats.demolab.com?user=TUSAR-SUDO&theme=radical&hide_border=true&background=0D1117&ring=D4F87A&fire=D4F87A&currStreakLabel=D4F87A" width="49%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=TUSAR-SUDO&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="85%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TUSAR-SUDO&theme=react-dark&hide_border=true&bg_color=0D1117&color=D4F87A&line=D4F87A&point=FAFAFA" width="85%" />
 
 </div>
 
-<br/>
-
 <details>
-<summary><b>🐍 Contribution Snake</b> (animated activity graph)</summary>
+<summary><b>🐍 Live Contribution Snake</b> — click to expand</summary>
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/TUSAR-SUDO/TUSAR-SUDO/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> Generated automatically via the [Contribution Snake Action](https://github.com/Platane/snk) — add the workflow below to `.github/workflows/snake.yml` to keep it live.
+> Powered by the [Contribution Snake Action](https://github.com/Platane/snk). Add `.github/workflows/snake.yml` to keep it animating on every push.
 
 </details>
 
 <br/>
 
-## 📬 Let's Connect
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
+
+## 📬 Open the Channel
 
 <a href="mailto:mahakudtusar@gmail.com"><img src="https://img.shields.io/badge/Email-mahakudtusar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/2005-tusar-mahakud/"><img src="https://img.shields.io/badge/LinkedIn-2005--tusar--mahakud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
-*"Every interaction designed with intention."*
+<i>"Every interaction designed with intention."</i>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TUSAR-SUDO&label=Profile%20Views&color=D4F87A&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TUSAR-SUDO&label=PROFILE%20VIEWS&color=D4F87A&style=for-the-badge)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer" />
 
 </div>
