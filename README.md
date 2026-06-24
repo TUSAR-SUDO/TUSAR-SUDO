@@ -1,21 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=TUSAR%20MAHAKUD&fontSize=58&fontAlignY=35&fontColor=D4F87A&desc=Engineering%20at%20the%20edge%20of%20Code%2C%20Design%20%26%20AI&descAlignY=55&descSize=20&descColor=FAFAFA&animation=twinkling" />
-
-<br/>
-
-<!-- Animated signature mark — pure inline SVG, no external assets -->
-<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="20" cy="20" r="6" fill="#D4F87A">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="60" cy="20" r="6" fill="#D4F87A">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" repeatCount="indefinite" begin="0.3s" />
-  </circle>
-  <circle cx="100" cy="20" r="6" fill="#D4F87A">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" begin="0.6s" />
-  </circle>
-</svg>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=TUSAR%20MAHAKUD&fontSize=58&fontAlignY=35&fontColor=D4F87A&desc=Engineering%20at%20the%20edge%20of%20Code%2C%20Design%20and%20AI&descAlignY=55&descSize=20&descColor=FAFAFA&animation=fadeIn" />
 
 <br/>
 
